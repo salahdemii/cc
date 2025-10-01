@@ -1,0 +1,5 @@
+{
+  "name": "German-Arabic Phrase Audio Tool",
+  "description": "An app to upload a CSV of German-Arabic phrases, display them, and play audio for the German phrases using browser-based text-to-speech.",
+  "requestFramePermissions": []
+}
